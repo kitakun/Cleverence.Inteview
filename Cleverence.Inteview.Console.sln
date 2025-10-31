@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cleverence.Inteview.Console", "Cleverence.Inteview.Console\Cleverence.Inteview.Console.csproj", "{EA11A3EA-4EF1-4118-BD1E-6EC79ECB8332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cleverence.Interview.UnitTests", "Cleverence.Interview.UnitTests\Cleverence.Interview.UnitTests.csproj", "{B794697F-0B47-439C-8043-BDD9A30BB4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA11A3EA-4EF1-4118-BD1E-6EC79ECB8332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA11A3EA-4EF1-4118-BD1E-6EC79ECB8332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA11A3EA-4EF1-4118-BD1E-6EC79ECB8332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA11A3EA-4EF1-4118-BD1E-6EC79ECB8332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B794697F-0B47-439C-8043-BDD9A30BB4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B794697F-0B47-439C-8043-BDD9A30BB4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B794697F-0B47-439C-8043-BDD9A30BB4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B794697F-0B47-439C-8043-BDD9A30BB4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
