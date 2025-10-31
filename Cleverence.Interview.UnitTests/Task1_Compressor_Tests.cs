@@ -1,4 +1,3 @@
-using Cleverence.Inteview.Console;
 using Cleverence.Inteview.Console.Task1;
 
 namespace Cleverence.Interview.UnitTests;
